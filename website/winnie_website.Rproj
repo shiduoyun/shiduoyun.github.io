@@ -1,0 +1,16 @@
+Version: 1.0
+ProjectId: 4eafa140-ea41-4420-8464-fc4e31e97a47
+
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+
+ProjectName: shiduoyun.github.io
