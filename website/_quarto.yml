@@ -1,19 +1,29 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "winnie_website"
+  title: "Winnie Shi"
   navbar:
+    background: light
+    search: true
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - projects.qmd
+      - posts.qmd
+  page-footer:
+    left: |
+      &copy; 2024<br>
+      Licensed under [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+    right: |
+      Built with <a href='https://quarto.org/'>Quarto</a>
 
 format:
   html:
-    theme: cosmo
+    theme: simplex
     css: styles.css
     toc: true
 
 editor: visual
-
