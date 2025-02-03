@@ -8,17 +8,15 @@ about:
     - icon: github
       href: https://github.com/shiduoyun
 ---
+
 ### About me
 
-:::{#intro-heading}
-
+::: {#intro-heading}
 Hey there! I’m Winnie, a college student who loves camping and cooking. I focus on data science and trans and queer studies, and I’m always excited to connect with new people. Thanks for stopping by!
 
 ## Education
 
-Macalester College | St. Paul MN <br>
-B.A. in Data Science, Women Gender and Sexuality Studies | Sept 2024 - May 2026
-
+Macalester College \| St. Paul MN <br> B.A. in Data Science, Women Gender and Sexuality Studies \| Sept 2024 - May 2026
 :::
 
 ### Projects
